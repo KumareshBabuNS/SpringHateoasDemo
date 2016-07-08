@@ -1,4 +1,4 @@
-<h1>Hypermedia Driven REST web service Employee Demo</h1>
+<h1>Hypermedia Driven REST Web Service Employee Demo - Spring HATEOAS </h1>
 
 Spring HATEOAS provides some APIs to ease creating REST representations that follow the HATEOAS principle when 
 working with Spring and especially Spring MVC. The core problem it tries to address is link creation and 
